@@ -1,4 +1,4 @@
-Flaskbarebones
+<b>Flaskbarebones</b>
 
 Installation:
     
@@ -17,3 +17,8 @@ Database setup:
 Run:
 
     flask run
+
+
+Generate new DB migrations:
+
+     flask db migrate -m"migration name"
